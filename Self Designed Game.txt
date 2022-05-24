@@ -1,0 +1,33 @@
+Self Designed Game
+
+Story
+There is a person whoes house is damaged by a disaster . Now he has to build his house by own
+by playing some games.
+
+PC & NPC
+PC: Main Player(Boy/Girl),Mini Games
+NPC: Coins,House,Rocks,Furniture
+
+Goal
+To build his house and set up all things in house.
+
+Rules
+1.Move the player using arrow keys.
+2.By playing mini games if you get 200 coins,you win the game.
+3.If you loose the mini game one life is dedacted.
+4.A player get 5 lives.
+
+Chance/Skill
+Chance: Geting furnitures by winning coins.
+Skill: Winning mini games.
+
+Balance
+In mini games ,there are some power booster to make it easy.
+By giving obstacles , making difficult.
+
+Adaptivity
+By making level more harder than previous one.
+
+Feedback
+Sound - for collecting coins , hitting obstacle , winning sound , loosing sound.
+Visual - House becoming better.
